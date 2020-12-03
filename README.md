@@ -52,37 +52,37 @@
 
 Bila kita jalan kan kode diatas akan mengeluarkan Output seperti gambar di bawah ini
 
-![6.png](gambar/6.png)
+![gambar6.png](gambar/gambar6.png)
 
 
 
 
 ## Tugas pertemuan 10
 
-![8.png](/gambar/8.png)
+![gambar8.png](/gambar/gambar8.png)
 
 
 * Gambar 1
 
-![1.png](/gambar/1.png)
+![gambar1.png](/gambar/gambar1.png)
 
 
 * Gambar 2
 
-![2.png](/gambar/2.png)
+![gambar2.png](/gambar/gambar2.png)
 
 * Gambar 3 
 
-![3.png](/gambar/3.png)
+![gambar3.png](/gambar/gambar3.png)
 
 * Gambar 4
 
-![4.png](/gambar/4.png)
+![gambar4.png](/gambar/gambar4.png)
 
 * Gambar 5
 
-![5.png](/gambar/5.png)
+![gambar5.png](/gambar/gambar5.png)
 
 
-![9.png](/gambar/9.png)
+![gambar9.png](/gambar/gambar9.png)
 
