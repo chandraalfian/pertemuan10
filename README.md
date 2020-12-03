@@ -1,6 +1,6 @@
 # Labspy 6
 
-![7.png](/gambar/7.png)
+![gambar7.png](/gambar/gambar7.png)
 
 
 
